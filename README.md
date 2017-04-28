@@ -10,8 +10,10 @@
       $ cd <your-project-name>
       $ npm link
     ~~~
-5. Add a repo on github
-6. When you're done publish!
+5. Push away!
+    <br />-look add the structure and comments in the ./app/index.js file
+6. Add a repo on github
+7. When you're done publish!
     ~~~
       $ npm publish
     ~~~

@@ -1,14 +1,14 @@
 {
-  "name": "generator-appseed",
+  "name": "generator-your-app-name",
   "version": "0.0.1",
-  "description": "This is a Yeoman generator to scaffold a web application with WebPack, ES6, Nodejs",
+  "description": "This is a baseline starter point to make a yeoman generator",
   "files": [
     "generators"
   ],
   "main": "index.js",
   "scripts": {},
   "keywords": [
-    "yeoman-generator", "Webpack", "Nodejs", "ES6"
+    "yeoman-generator"
   ],
   "author": "Phil Willis <pdotwdot@gmail.com> (http://www.philwillis.pw/)",
   "license": "ISC",
